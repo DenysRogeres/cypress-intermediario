@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DenysRogeres/cypress-intermediario/issues"
   },
-  "homepage": "https://github.com/DenysRogeres/cypress-intermediario#readme"
+  "homepage": "https://github.com/DenysRogeres/cypress-intermediario#readme",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
 }
